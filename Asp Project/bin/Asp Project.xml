@@ -1,0 +1,716 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AspProject
+</name>
+</assembly>
+<members>
+<member name="F:Asp_Project.editnote.form1">
+	<summary>
+form1 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.noteN">
+	<summary>
+noteN 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.noteName">
+	<summary>
+noteName 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.makeNote">
+	<summary>
+makeNote 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.noteTable">
+	<summary>
+noteTable 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.getlist">
+	<summary>
+getlist 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.editnote.deletelist">
+	<summary>
+deletelist 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.id">
+	<summary>
+id control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.nic">
+	<summary>
+nic control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.pw">
+	<summary>
+pw control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.login">
+	<summary>
+login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.reg">
+	<summary>
+reg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.email">
+	<summary>
+email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm2.sex">
+	<summary>
+sex control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.login.id">
+	<summary>
+id control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.login.passwd">
+	<summary>
+passwd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.login.Submit">
+	<summary>
+Submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.account.form1">
+	<summary>
+form1 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.id">
+	<summary>
+id 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.name">
+	<summary>
+name 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.passwd">
+	<summary>
+passwd 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.email">
+	<summary>
+email 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.gender">
+	<summary>
+gender 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.account.submit">
+	<summary>
+submit 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.selectMode">
+	<summary>
+selectMode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.getlist">
+	<summary>
+getlist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.noteTable">
+	<summary>
+noteTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.start">
+	<summary>
+start control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.label9">
+	<summary>
+label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.typez">
+	<summary>
+typez control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.label0">
+	<summary>
+label0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.question">
+	<summary>
+question control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.label1">
+	<summary>
+label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.transe">
+	<summary>
+transe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.fromWord">
+	<summary>
+fromWord control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.sq5">
+	<summary>
+sq5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.anc">
+	<summary>
+anc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.hint">
+	<summary>
+hint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.check">
+	<summary>
+check control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.getCurrect">
+	<summary>
+getCurrect control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.WebForm3.currect">
+	<summary>
+currect control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Asp_Project.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Asp_Project.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Asp_Project.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Asp_Project.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Asp_Project.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Asp_Project.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Asp_Project.WebForm1.form1">
+	<summary>
+form1 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.Label1">
+	<summary>
+Label1 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.qu">
+	<summary>
+qu 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.Label2">
+	<summary>
+Label2 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.getlist">
+	<summary>
+getlist 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.noteTable">
+	<summary>
+noteTable 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.start">
+	<summary>
+start 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.question">
+	<summary>
+question 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.Label4">
+	<summary>
+Label4 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.sq5">
+	<summary>
+sq5 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.anc">
+	<summary>
+anc 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.check">
+	<summary>
+check 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.getCurrect">
+	<summary>
+getCurrect 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.WebForm1.currect">
+	<summary>
+currect 컨트롤입니다.
+</summary>
+	<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하십시오.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.list">
+	<summary>
+list control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.label">
+	<summary>
+label control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.selectedNote">
+	<summary>
+selectedNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.getlist">
+	<summary>
+getlist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.senlist">
+	<summary>
+senlist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.tryeng.getSen">
+	<summary>
+getSen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.information0">
+	<summary>
+information0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.information">
+	<summary>
+information control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.per">
+	<summary>
+per control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.getStats">
+	<summary>
+getStats control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.list">
+	<summary>
+list control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.manyWrong.makeNote">
+	<summary>
+makeNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.form2">
+	<summary>
+form2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.noteN">
+	<summary>
+noteN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.noteName">
+	<summary>
+noteName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.makeNote">
+	<summary>
+makeNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.refresh">
+	<summary>
+refresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.dblist">
+	<summary>
+dblist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.Extract">
+	<summary>
+Extract control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.input_box">
+	<summary>
+input_box control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.cb1">
+	<summary>
+cb1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Asp_Project.plusword.insert">
+	<summary>
+insert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
